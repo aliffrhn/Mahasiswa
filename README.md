@@ -15,12 +15,18 @@ node server.js
 
 Test API in browser with route http://localhost:3000
 
+```
 POST localhost:3000/mahasiswa
-
+```
+```
 GET localhost:3000/mahasiswa
-
+```
+```
 GET localhost:3000/mahasiswa/mahasiswaId
-
+```
+```
 PUT localhost:3000/mahasiswa/mahasiswaId
-
+```
+```
 DELETE localhost:3000/mahasiswa/mahasiswaId
+```
